@@ -1,5 +1,5 @@
 ## Welcome
-### Private repositories
+### Private Repositories
 If you're wondering where all my commits are going, they're going to repositories I don't want to share publically which are:
 - My website and its configuration files
 - My C2 framework project: DSAW-C2
