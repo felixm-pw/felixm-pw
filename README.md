@@ -1,6 +1,5 @@
 ## Welcome
 ### Private Repositories
-If you're wondering where all my commits are going, they're going to repositories I'm not currently sharing, which are:
 - My website source files and configuration files
 - My C2 framework project: Deep Sea 2
 - Unfinished security PoC projects
